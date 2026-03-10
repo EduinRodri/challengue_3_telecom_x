@@ -1,4 +1,3 @@
-```markdown
 # 📊 Predicción de Cancelación de Clientes con Machine Learning
 
 Este proyecto tiene como objetivo desarrollar **modelos predictivos capaces de identificar qué clientes tienen mayor probabilidad de cancelar sus servicios** (Customer Churn).
